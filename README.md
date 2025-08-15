@@ -1,4 +1,11 @@
-## Hi there 👋, I'm Thanh Hoa Lam
+## Hi there 👋, I'm Hoa Lam Thanh
+
+Full-Stack .NET Developer
+
+📍 Address: Dong Hung Thuan Ward, Ho Chi Minh
+📧 Email: thanhhoaafk@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/hoa-lam-20a48524b/
+📞 Phone: +84 782 992 245
 
 <!--
 **thanhhoa0812/thanhhoa0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +13,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 🔭 I’m currently worki
+Full-Stack .NET Developer
+Full-Stack .NET Developerng on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
