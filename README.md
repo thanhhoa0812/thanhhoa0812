@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m a dedicated **Full-Stack .NET Developer** with over 4 years of experience in building scalable ERP systems, e-commerce platforms, and cloud-based applications.  
+I’m a dedicated **Full-Stack .NET Developer** with over 5 years of experience in building scalable ERP systems, e-commerce platforms, and cloud-based applications.  
 I specialize in **.NET Core, ReactJS, SQL Server, Microsoft Azure**, and have a strong background in **RESTful API development, database design, and frontend optimization**.  
 I enjoy collaborating in Agile/Scrum teams, solving complex technical problems, and delivering maintainable, user-focused solutions.
 
@@ -33,10 +33,20 @@ I enjoy collaborating in Agile/Scrum teams, solving complex technical problems, 
 **Cloud & Tools**  
 - Microsoft Azure, Git, TFS, Azure DevOps, IIS, SharePoint, MS Graph API  
 - Agile/Scrum.  
+- Claude, Gemini, ChatGPT, Grok
 
 ---
 
 ## 💼 Work Experience
+**Fullstack Developer — Salary**
+*11/2025 – 09/2026*
+ AI Agent, CompAnalyst
+- Developed Autonomous Agent CRUD and configuration features. 
+- Developed Workflow Management and Workflow Chain functionality. 
+- Implemented Workflow Test Run for validating agent execution and results. 
+- Integrated ReactJS UI with .NET APIs and SQL Server. 
+- Investigated and resolved Agent/Workflow issues in collaboration with QA and DBA 
+teams. 
 
 **Fullstack Developer — Stepmedia Software**  
 *03/2023 – 06/2025*  
